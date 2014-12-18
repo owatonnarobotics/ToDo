@@ -9,5 +9,6 @@ Workshop 2:
 Refresh on Git
 Begin Learning Java
 
-Homework 2:Workshop
+Homework 2:
+
 
