@@ -1,0 +1,13 @@
+Workshop 1:
+Create GitHub Account
+Learn to use GitHub
+
+Homework 1:
+Create a repository in Git
+
+Workshop 2:
+Refresh on Git
+Begin Learning Java
+
+Homework 2:Workshop
+
