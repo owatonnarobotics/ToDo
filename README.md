@@ -4,29 +4,23 @@
 	Instructions for editing this file:
 	1. Add your edit
 	2. Add a section header with ## header ##
-	3. Add an anchor above your header with <a name="header_anchor"></a>
-	4. Link to your section in the index with [Header](#header_anchor)
-	5. Find the anchor <a name="now"></a> and delete it
-	6. Add the anchor <a name="now"></a> to what we should be doing now
-	7. Save and commit
+	3. Link to your section in the index with [Header](#header)
+	4. Save and commit
 -->
 
 
 
-<a name="head"></a>
-# OHS Robotics Programming Team ToDo List #
+# Programming Team ToDo List #
 * See [here](https://github.com/owatonnarobotics/ToDo/labels/announcement) for current announcements
-* [What are we doing right now](#now)?
+* [What are we doing right now](#homework-1)?
 
-<a name="index"></a>
-## Index:
-* [Our first workshop](#Workshop1)
-* [Our second workshop](#Workshop2)
+## Index: ##
+* [Our first workshop](#workshop-1)
+* [Our second workshop](#workshop-2)
 
 ****
 ****
 
-<a name="Workshop1"></a>
 ## Workshop 1: ##
 * [Created GitHub Accounts](https://github.com/join)
 * [Learned to use GitHub](https://try.github.io/levels/1/challenges/1)
@@ -34,12 +28,10 @@
 	#### Homework: ####
 	* [Create a repository in Git](https://help.github.com/articles/create-a-repo/)
 
-<a name="Workshop2"></a>
 ## Workshop 2: ##
 * Refreshed on Git
 * [Began Learning Java](https://github.com/owatonnarobotics/ToDo/issues/1)
 
-	<a name="now"></a>
 	#### Homework: ####
 	* [Follow this Java tutorial](http://www.caveofprogramming.com/javatutorial/java-tutorial-1-compiling-and-running-a-java-program.html) ([*From this announcement*](https://github.com/owatonnarobotics/ToDo/issues/2))
 	
