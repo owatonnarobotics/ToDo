@@ -5,7 +5,8 @@
 	1. Add your edit
 	2. Add a section header with ## header ##
 	3. Link to your section in the index with [Header](#header)
-	4. Save and commit
+	4. Advance the "What are we doing right now" link below to your new section
+	5. Save and commit
 -->
 
 
