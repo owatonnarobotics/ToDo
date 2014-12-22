@@ -14,7 +14,7 @@
 
 
 <a name="head"></a>
-# OHS Robotics Programming Team #
+# OHS Robotics Programming Team ToDo List #
 * See [here](https://github.com/owatonnarobotics/ToDo/labels/announcement) for current announcements
 * [What are we doing right now](#now)?
 
