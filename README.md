@@ -1,7 +1,9 @@
 Programming Team ToDo List
 ==========================
 
-([Did you miss out on anything? Check here for details!](../master/archive/index.md))
+([Did you miss out on anything? Check here for details!](archive/index.md))
 
-- [ ] Unchecked item
-- [x] Checked item
+- [ ] [Sign up before it's too late!](https://my.usfirst.org/stims/)
+- [ ] Learn Java
+- [ ] Attend the kickoff
+- [ ] Attend the first day of the robotics season
