@@ -1,5 +1,5 @@
-- ([Return to archive index](../index.md))
-- ([Return to current tasks](../../README.md))
+([Return to archive index](../index.md))  
+([Return to current tasks](../../README.md))
 
 Workshop 1
 ==========
