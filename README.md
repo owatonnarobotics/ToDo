@@ -5,5 +5,6 @@ Programming Team ToDo List
 
 - [ ] [Sign up before it's too late!](https://my.usfirst.org/stims/)
 - [ ] [Learn Java](https://github.com/owatonnarobotics/ToDo/issues/3)
-- [ ] Attend the kickoff
+- [X] Attend the kickoff
 - [ ] Attend the first day of the robotics season
+- [ ] Read the game manual (attached)
