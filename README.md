@@ -7,5 +7,4 @@ Programming Team ToDo List
 - [ ] [Learn Java](https://github.com/owatonnarobotics/ToDo/issues/3)
 - [X] Attend the kickoff
 - [ ] Attend the first day of the robotics season
-- [ ] [Read the game manual](FRC 2015 Game Manual.pdf)
-- 
+- [ ] [Read the game manual](FRC 2015 Game Manual.pdf?raw=true)
