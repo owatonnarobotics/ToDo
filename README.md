@@ -6,6 +6,6 @@ Programming Team ToDo List
 - [ ] [Sign up before it's too late!](https://my.usfirst.org/stims/)
 - [ ] [Learn Java](https://github.com/owatonnarobotics/ToDo/issues/3)
 - [X] Attend the kickoff
-- [ ] Attend the first day of the robotics season
+- [X] Attend the first day of the robotics season
 - [ ] [Read the game manual](FRC 2015 Game Manual.pdf?raw=true)
 - [ ] Finish Tank Drive
