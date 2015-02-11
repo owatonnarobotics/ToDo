@@ -9,5 +9,5 @@ Programming Team ToDo List
 - [X] Attend the first day of the robotics season
 - [ ] [Read the game manual](FRC 2015 Game Manual.pdf?raw=true)
 - [X] Finish Tank Drive
-- [ ] Finish PID_Mode
+- [X] Finish PID_Mode
 - [ ] Joystick "Precision Zone" on left and right sides
