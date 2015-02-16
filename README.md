@@ -10,4 +10,4 @@ Programming Team ToDo List
 - [ ] [Read the game manual](FRC 2015 Game Manual.pdf?raw=true)
 - [X] Finish Tank Drive
 - [X] Finish PID_Mode
-- [ ] Joystick "Precision Zone" on left and right sides
+- [X] Joystick "Precision Zone" on left and right sides
