@@ -11,3 +11,5 @@ Programming Team ToDo List
 - [X] Finish Tank Drive
 - [X] Finish PID_Mode
 - [X] Joystick "Precision Zone" on left and right sides
+- [ ] Update icon on OwatonnaRobotics GitHub page
+- [ ] Write three-tote autonomous
